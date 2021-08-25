@@ -13,6 +13,3 @@ pDeep2: https://github.com/pFindStudio/pDeep
 pDeep3: https://github.com/pFindStudio/pDeep3
 
 AutoRT: https://github.com/bzhanglab/AutoRT
-
-# Data folder
-https://www.dropbox.com/sh/ata9e0czuam26t8/AAAhj16OiYT8293K486or_SDa?dl=0
